@@ -5,8 +5,9 @@ Interactive Power BI dashboard analysing Netflix content trends,
 viewership patterns, and regional distribution.
 
 ## Key Insights
-- [e.g. Content grew 3x between 2015–2020]
-- [e.g. Dramas dominate at 35% of all titles]
+- Netflix content grew significantly between 2018–2020, peaking in original productions
+- Dramas and Comedies account for the majority of titles globally
+- USA, India, and UK are the top 3 content-producing countries
 
 ## KPIs Built
 - Total Titles, Movies vs Shows ratio
